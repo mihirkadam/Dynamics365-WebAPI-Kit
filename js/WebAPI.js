@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // File Name: MKWebAPI.js
 // Description: 
 // Created: February 24, 2016
@@ -1736,4 +1737,6 @@ Number.prototype.padLeft = function (n, str) {
 
 
 
+=======
+>>>>>>> refs/remotes/origin/master
 
